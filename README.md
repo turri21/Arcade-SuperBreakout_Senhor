@@ -1,3 +1,8 @@
+-=(SuperBreakout_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # SuperBreakout
 FPGA implementation by james10952001 of [Super Breakout](https://github.com/james10952001/SuperBreakout "SuperBreakout") arcade game released by Atari in 1978
 
